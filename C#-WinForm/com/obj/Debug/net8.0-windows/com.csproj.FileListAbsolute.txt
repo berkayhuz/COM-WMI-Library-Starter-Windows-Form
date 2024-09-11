@@ -1,0 +1,16 @@
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\bin\Debug\net8.0-windows\com.exe
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\bin\Debug\net8.0-windows\com.deps.json
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\bin\Debug\net8.0-windows\com.runtimeconfig.json
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\bin\Debug\net8.0-windows\com.dll
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\bin\Debug\net8.0-windows\com.pdb
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.Main.resources
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.csproj.GenerateResource.cache
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.AssemblyInfoInputs.cache
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.AssemblyInfo.cs
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.csproj.CoreCompileInputs.cache
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.dll
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\refint\com.dll
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.pdb
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\com.genruntimeconfig.cache
+C:\Users\berka\OneDrive\Desktop\Software\C#\Projects\Windows Projects\COM\com\obj\Debug\net8.0-windows\ref\com.dll
